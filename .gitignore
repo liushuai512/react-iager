@@ -1,0 +1,11 @@
+
+config.php      
+*.a             
+!lib.a          
+/TODO           
+build/         
+doc/*.txt       
+**/foo          
+a/**/b          
+node_modules
+
