@@ -1,6 +1,6 @@
 
 config.php      
-*.a             
+           
 !lib.a          
 /TODO           
 build/         
